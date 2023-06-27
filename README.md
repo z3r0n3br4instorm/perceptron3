@@ -1,2 +1,3 @@
 # perceptron3
 THIS IS STILL UNDER DEVELOPMENT
+Some stuff are hardcoded to make it easy for me to figure this out...
